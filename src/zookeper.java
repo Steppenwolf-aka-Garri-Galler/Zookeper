@@ -134,7 +134,7 @@ public class zookeper {
                 out = false;
                 System.out.println("See you later!");
             } else {
-                System.out.println(animals[Integer.parseInt(userInput)]);
+                System.out.println(animals[Integer.parseInt(userInput)]); //
             }
         }
     }
